@@ -15,6 +15,6 @@ public class Main {
 
             //Double.parseDouble("");
             //IniFile.parseFromFile(path);
-            //представить файл в виде объекта, создать классы section и parameter, внутри которых производить инциализацию
+            //создать классы section и parameter, внутри которых производить инциализацию
     }
 }
