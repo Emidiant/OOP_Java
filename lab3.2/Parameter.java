@@ -1,5 +1,3 @@
-package Exceptions;
-
 import java.util.HashMap;
 
 public class Parameter {
